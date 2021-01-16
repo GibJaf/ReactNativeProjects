@@ -1,0 +1,14 @@
+{
+  "blogposts": [
+    {
+      "title": "Second post new version",
+      "content": "Some more content",
+      "id": 2
+    },
+    {
+      "title": "Again Updated Fourth post",
+      "content": "Consistency guaranteed",
+      "id": 4
+    }
+  ]
+}
