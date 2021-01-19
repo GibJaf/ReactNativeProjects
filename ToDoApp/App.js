@@ -43,9 +43,7 @@ class App extends Component {
     return (
       <View style={styles.container}>
 
-      <Text>
-        Some random text
-      </Text>
+      
         
         <TouchableOpacity
           style={styles.button}
